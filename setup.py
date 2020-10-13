@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="graph-snapshot",
-    version="0.0.8",
+    version="0.1.0",
     author="Josua Kugler, Nico Haaf",
     author_email="josua.kugler@stud.uni-heidelberg.de, nico.haaf@stud.uni-heidelberg.de",
     description="A small package for creating snapshots of graphs with networkx",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/NicoHaaf/graph_snapshot_pip",
+    url="https://josuakugler.github.io/graph_snapshot/",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
