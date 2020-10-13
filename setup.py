@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="graph-snapshot",
-    version="0.0.1",
+    version="0.0.2",
     author="Josua Kugler, Nico Haaf",
     author_email="josua.kugler@stud.uni-heidelberg.de, nico.haaf@stud.uni-heidelberg.de",
     description="A small package for creating snapshots of graphs with networkx",
